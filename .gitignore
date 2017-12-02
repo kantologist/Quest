@@ -13,8 +13,7 @@ _mailinglist
 .tox
 .cache/
 .idea/
-data-dev.sqlite
-migrations 
+migrations
 
 # Coverage reports
 htmlcov
